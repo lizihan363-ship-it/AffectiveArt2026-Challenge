@@ -81,7 +81,7 @@ After entering the Codabench challenge page, click **Register** to join the comp
 
 Before submitting, please create an organization.
 
-![Create an organization](assets/step2_1.PNG)
+![Create an organization](assets/step2_1.png)
 
 When creating an organization, please complete the team information.
 
@@ -94,11 +94,11 @@ Organization Email: please enter the same contact email address used during regi
 
 Please ensure that the Organization Name matches the **team name** provided during registration, and that the Organization Email matches the **contact email address** provided during registration.
 
-![Organization information](assets/step2_2.PNG)
+![Organization information](assets/step2_2.png)
 
 After filling in the required information, click **Submit** to save the team.
 
-![Submit organization](assets/step2_3.PNG)
+![Submit organization](assets/step2_3.png)
 
 ### Step 3. Submit as an Organization
 
@@ -106,25 +106,31 @@ After your team is created successfully, go to the submission page.
 
 Please make sure you are submitting **under your organization name**, not only as an individual user.
 
-![Submit under organization](assets/step3.PNG)
+![Submit under organization](assets/step3.png)
 
 ### Step 4. Upload the Submission File
 
 Click the submission upload button and select your **submission.zip** file.
 
-![Upload submission file](assets/step4_1.PNG)
+![Upload submission file](assets/step4_1.png)
 
 Please wait while uploading.
 
-![Uploading submission](assets/step4_2.PNG)
+![Uploading submission](assets/step4_2.png)
 
 ### Step 5. Wait for Scoring
 
 After uploading, Codabench will start evaluating your submission.
 
 The submission may go through several states, such as:
+```
+Preparing
+Running
+Scoring
+Finished
+```
 
-![Submission states](assets/step5.PNG)
+![Submission states](assets/step5.png)
 
 When the status becomes **Finished**, the evaluation is complete.
 
@@ -134,7 +140,7 @@ After scoring is finished, you can check your result on the leaderboard.
 
 The leaderboard will show the official scores for the corresponding track.
 
-![Leaderboard](assets/step6.PNG)
+![Leaderboard](assets/step6.png)
 
 ## Important Notes
 
